@@ -1,0 +1,10 @@
+name: "StepDaddyLiveHD"
+version: "1.0.0"
+slug: "stepdaddylivehd"
+description: "Self-hosted IPTV proxy"
+arch:
+  - aarch64
+  - amd64
+boot: "auto"
+ports:
+  3000/tcp: 3000
